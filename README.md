@@ -1,6 +1,6 @@
-Frontend Trinings-presentation
+Frontend Trainings-presentation
 ========================
-Frontend Trinings-presentation
+Frontend Trainings-presentation
 
 Hosted by github page : [http://mykytamorachov.github.io/](http://mykytamorachov.github.io/)
 
