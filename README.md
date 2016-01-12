@@ -1,8 +1,6 @@
-FrontEndLab-presentation
+Frontend Trinings-presentation
 ========================
-FrontEndLab presentation
+Frontend Trinings-presentation
 
-Hosted by github page : [http://frontendlabepam.github.io/FL4/#1](http://frontendlabepam.github.io/FL4/#1)
+Hosted by github page : [http://mykytamorachov.github.io/](http://mykytamorachov.github.io/)
 
-TODO:
-- add missing lectures
